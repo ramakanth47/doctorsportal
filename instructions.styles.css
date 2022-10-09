@@ -1,0 +1,39 @@
+.instruction-image {
+  margin-left: auto;
+  margin-right: auto;
+  top: 0;
+  left: 0;
+  text-align: center;
+  z-index: 9;
+  width: 60%;
+  height: 60%;
+  display: block;
+}
+
+button {
+  font-weight: 600;
+  font-size: medium;
+}
+
+.start-button {
+  padding: 0.3vh 4vw;
+  height: 5vh;
+  width: 22vw;
+  border-radius: 19px;
+}
+
+.instruction {
+  padding-top: 5vh;
+  padding-left: 5vw;
+}
+
+.instruction h2 {
+  text-align: center;
+}
+
+iframe {
+  margin: 5vh 6vw;
+  width: 75vw;
+  height: 24vh;
+  /* border-radius: 15px; */
+}
